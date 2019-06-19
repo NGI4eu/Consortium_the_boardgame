@@ -1,7 +1,7 @@
 # Consortium: The NGI Boardgame
 Welcome to the repository for all files concerning the NGI boardgame Consortium, the boardgame about the future of the internet we developed. Here you can find two main things: A folder with the files necessary to play Consortium, namely the cards and the board, as well as the rules.
 
-If you have landed here from somewhere else and want to know what all of this is about, please see my [blogpost on the game's development](https://www.nesta.org.uk/blog/rethinking-internet-playing-boardgame/)
+If you have landed here from somewhere else and want to know what all of this is about, please see my [blogpost on the game's development](https://www.nesta.org.uk/blog/rethinking-internet-playing-boardgame/) and some of our thinking behind it.
 
 # How to play the game
 To play the game, download the files in the first folder and print them, ideally on card. The board should be printed on A3, but two A4 sheets will do. The 5 value trackers should ideally be stuck onto a thick coin or other object to make them easier to move. 
