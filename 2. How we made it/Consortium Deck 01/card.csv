@@ -1,0 +1,53 @@
+avatar,name,privacy,concentration,trust,control,benefits,text
+,COUNT,29,30,29,29,29,
+,SUM,29,29,30,30,30,
+police-officer-head.png,Internet Policing,-3,,2,3,-3,"Fed up with online harassment, the consortium initiates the Online Investigation Squad, also known as the Trollhunters to police cyberspace."
+money.png,Paid for Social,4,-2,2,,-3,"With generous backing a social network long deceased is reborn as OurSpace, which promises not to harvest your data - in exchange for a small fee."
+open data.png,Open Data,,-2,3,,3,"Public bodies are pushed to release their data for use by researchers, citizens and the private sectors. Anonymised of course, as much as possible."
+cake.png,DeepBake,,4,2,,,"The AI division of the GAFA Cooperation enters a popular TV cooking competition, with its 3 loveable human handlers."
+data portability.png,Data Portability,,-2,1,,3,"A 'right to data portability', allowing you to take your social media data to another provider."
+digital startup.png,Digital Startups,,-2,,,2,"A powerful new Startup Bill creates a wave of new digital entrepreneurs, generating lots of new apps and services."
+mesh mania.png,Mesh Mania,,,,-2,2,"With Consortium support, community mesh networks, like Guifi.net, explode in popularity - bypassing much existing infrastructure and reducing barriers to access. "
+never walk alone.png,Never walk alone,-2,2,-1,,,Free stepcounters and priority access to medical care - for those who agree to be tracked and keep moving.
+Crippled Crypto.png,Crippled Crypto,-1,,-3,2,-3,The government outlaws 'military-grade' cryptography in an effort to improve intelligence-gathering. Chaos quickly ensues as banks and payment systems are compromised.
+BS meter.png,Bullshit Meter,,,2,-2,,A 'bullshit' meter that displays the likelihood of something being fake news on a visual meter.
+Smart CCTV.png,Smart CCTV,-2,3,,4,1,"CCTV and AI make for a potent combination, making it easier to surveil just about everything and everyone."
+Uploadfilter.png,Uploadfilter,,,-2,3,-4,"Fake news, copyright violations, stolen data, nothing escapes the upload filter. Of course there are occasional false positives as well..."
+Deliveroo for Drugs.png,Deliveroo for Drugs,,1,2,,2,"A new service, which brings prescription and over the counter drugs straight to your home. SO useful!"
+Smart ID.png,Smart ID,4,,,2,3,"Smart ID which allows users to only reveal whats necessary - age for buying alcohol, address for local services, tax number for work. Except of course to those running that database."
+Tensorflow for primary schools.png,Tensorflow School Kids,,5,2,,2,Never to early to get kids into AI. All possible thanks to our generous corporate sponsor!
+Law against AI Bias.png,Law against AI Bias,,2,2,1,3,"Datasets and algorithms become more representative and fair. It's a blessing for everyone really, especially the big firms who can afford to retrain their models on rich data."
+whiteroom experienc.png,Whiteroom Experience,4,-1,-5,,,Rolling out the online privacy experience across Europe really made people conscious of the need for privacy. It was not great for overall trust in the internet though.
+shoulders of giants.png,Shoulders of giants,-1,1,2,,,"How nice that some large tech firms have agreed to mentor promising start-ups, that should really help the newcomers. And they have already picked up some really cool tricks!"
+push out cash.png,Push out Cash,-1,,,3,2,"Cash is over, well almost. This combination of law changes, technical fixes and public campaigns make almost everything cashless and digital. Very handy!"
+streetlight.png,Smart Streetlights,,,,4,,"Roll out across 25 major cities to save power and increase security. Motion sensors are too unrelaible, so they will be triggered by phones. But everyone has one of those right?"
+sensors.png,Citizen Sensors,,-2,2,-1,,Encourage locals to install and set up sensors for enviromental data like pollution or noise. Open standards mean data remains secure and useable for all.
+smartphones.png,Ethical Phones,,3,2,,-2,"Tough rules against child labour and working conditions in mines and factories for smartphones - does raise prices though, locking out poorer consumers."
+liability.png,Security Liabilities Rules,4,3,1,,,"Unsecure connected devices cause damage. Now makers need to pay! Prices rise, large firms are most able to absorb the cost, but worth it, right?"
+patrol.png,DigiPatrol,-1,,,2,-2,"Police patrols are replaced by sensors, cameras and surveillance drones, which gives adopting cities much better visibility and saves officers time to respond to actual crime."
+thirdlife.png,ThirdLife VR,,,-2,3,,"Support for fully immersive VR has the potential of allowing everyone to experience luxury, travel and riches. Real life for most pales in comparision!"
+printing.png,Print everything!,,-2,,-4,2,"This can make 3D printing widespread, giving everyone access to cheap, locally printed consumer products and spawning an unruly market in schematics."
+pathways.png,Data Pathways,3,3,2,1,,"New legislation requires all data gatherers to make instantly available who data is shared with in real time, showing people the real extent of data collected."
+hands.png,Hands off!,4,,2,-3,,A powerful joint commitment to decrease surveilance without explicit consent by private and public actors.
+privtech.png,PrivTech,4,-2,,,-2,Funding package for startups who demonstrate that privacy is baked into their code.
+search.png,Search and Destroy,-2,,2,2,,"Tired of fake news, this measure will use sophisticated software and state power to track and prosecute all who create or fake news, punishing both users and platforms."
+encryption.png,Encryption boost,5,-2,,-3,,Public campaign to spread the use of encrypted communication using open source means.
+fines.png,Data Breach Fines,5,,1,3,2,"Hand out unlimited fines for data breaches, based on the value of data stolen and likely damage."
+skillsmatch.png,Skills matching,-2,,,,3,Roll out a new methodogy of showing individuals the skills required in ther (prospective) career by Nesta drawing on online job ads for better matching.
+dataharvest.png,Labour data harvest,-2,,,2,,"Heavily harvest data about the labour market from job ads, social networks and other sources to improve employment."
+privacywork.png,Privacy at work,4,,2,,1,"Rules to stop employers from monitoring personal communications like email or social media at work and ""unreasonable"" data collection from tracking devices."
+switch.png,Right to switch off,3,,1,,4,"EU wide right to ignore emails out of defined work ours, leave connected devices and unplug mentally."
+flexible.png,Flexible Work,-1,3,,,4,"Businesses to allow shifting hours, work from home and supplying technology to make it easier and convenient. Easiest of course for larger firms."
+transport.png,Public Transport WiFi,,3,,1,2,Massive effort to put Wifi on every public transport in the 50 biggest cities in Europe. Only possible thanks to our generous industry partners.
+edtech.png,Government EdTech ,,-2,,1,1,"To protect children from data harvesting and add profiling, whilst preparing them for a tech heavy world, the government provides tablets and other devices through schools."
+AIhealth.png,AI Health Service,-2,4,,,2,"Partnership to improve diagnostics by analysing data from all patients across the board, anonyised and aggregated."
+agelimit.png,Social Network Age Limit,3,,1,2,,Push to raise the limit of social networks to 16 and make platforms enforce it rigourosly.
+ondemand.png,On-Demand Life,,3,2,,,"A mobile app allows everyone can order a taxi, get food and groceries delivered, book an in-home beauty salon service, all from one app. Oh, they have a digital wallet too!"
+bigmoney.png,Big Digital Money,-1,4,,-2,,"A tech startup unicorn goes on a ""shopping spree"" for small fintech startups ranging from microlending, payment gateways, and digital wallets."
+datatax.png,Data Tax,,3,1,,2,"Complex algorithms now allows to tax the collection of data by for profit companies and collect revenue. Makes collecting data expensive - and those who hold it, rich."
+noshare.png,#noshare,4,,2,2,,"Public awareness campaign against handing private data to companies, big players and new entrants alike. "
+instababy.png,InstaBaby,-1,1,,2,1,"Birth certificates are phased out as almost 100% of the population upload photos of their newborns. Instead, councils crawl through social media data to register births."
+vrparole.png,VR Parole ,-1,,,4,,The government in collaboration with a VR company rolls out nationwide programme to use VR to help prisoners with reintegrating to society. 
+anticipatory.png,Anticipatory Regulation,,-1,,2,2,New approach to legislate for new technology and creating legal frameworks which enable new firms to innovate whilst maintaining safeguards.
+videogames.png,Video Game against Trauma,,3,2,,,Digital application to help people process trauma and and reduce the strength of lasting harm on their lives. 
+blockchain.png,Blockchain Insurance,1,-2,,-2,,"Smart insurance contracts on the blockchain self-execute when specific conditions are met, making it easier to insure risks. "
